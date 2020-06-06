@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(205,180,204);
+    background-position:center ;
+    font-family:Monospace;
+    font-size:20px;
+}
+.inline .inline a{
+    color:#b95c11;
+    display:inline ;
+    font-size:25px;
+}
+#inline-block .inline-block a{
+   color:#b95c11;
+    display:inline-block;
+    font-size:25px;
+}
+.block #block a{
+    color:#b95c11;
+    display:block ;
+    font-size:25px;
+}
+#flex .flex a{
+    display:flex;
+    color:#b95c11;
+    font-size:25px;
+    padding-left:10px;
+    margin:10px;
+}
+p{
+    margin:5px;
+}
+
+    
